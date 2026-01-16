@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Specialized+in+Next.js+%26+Node.js;DevOps+Enthusiast;Open+Source+Contributor;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Next.js+%26+Node.js+Expert;DevOps+%26+Cloud+Enthusiast;Building+GenieHack+🚀;Based+in+Bangladesh+🇧🇩" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -20,7 +20,14 @@
 - 🌐 **Portfolio:** [muntasimfahim.dev](https://www.shahinafridi.com)
 - 💬 **Expertise:** Next.js, Node.js, and Cloud Ops
 - 📧 **Email:** [muntasimfahim12@gmail.com](mailto:muntasimfahim12@gmail.com)
-- ⚡ **Philosophy:** I turn caffeine into scalable, high-performance code.
+- ⚡ **Fun Fact:** I build tools that make life easier (and sometimes just for fun!)
+
+---
+
+### 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muntasimfahim12&theme=tokyonight&column=7&no-bg=true&margin-w=15" alt="trophies" />
+</p>
 
 ---
 
@@ -31,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Insights & Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight&hide_border=true" />
@@ -41,7 +48,7 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasimfahim12&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Contribution Graph
+### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
@@ -57,5 +64,5 @@
 </p>
 
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=Keep%20Coding%20🚀&fontSize=30" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=Created%20by%20Fahim%20🚀&fontSize=30" /> 
 </p>
