@@ -117,25 +117,23 @@ I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on buildin
 
 ---
 
-## 📊 GitHub Stats (Guaranteed Working)
+## 📊 GitHub Stats & Real-time Streak
 
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="48%" 
-       src="https://streak-stats.demolab.com/?user=muntasimfahim12&theme=tokyonight&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49.5%" src="https://streak-stats.demolab.com/?user=muntasimfahim12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-## 🐍 Contribution Snake (Modern)
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
