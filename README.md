@@ -121,14 +121,14 @@ I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on buildin
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+       src="https://github-readme-stats.vercel.app/api?username=shahinafridi012&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img width="48%" 
-       src="https://streak-stats.demolab.com/?user=muntasimfahim12&theme=tokyonight&hide_border=true" />
+       src="https://streak-stats.demolab.com/?user=shahinafridi012&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinafridi012&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
