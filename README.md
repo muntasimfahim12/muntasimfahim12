@@ -48,6 +48,20 @@
     </td>
   </tr>
 </table>
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muntasimfahim12&theme=radical&column=7" alt="trophies" />
+</p>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntasimfahim12&show_icons=true&locale=en&layout=compact&theme=radical" alt="muntasimfahim12" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&locale=en&theme=radical" alt="muntasimfahim12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasimfahim12&theme=radical" alt="muntasimfahim12" />
+</p>
 
 ### 🐍 Contribution Graph
 <p align="center">
