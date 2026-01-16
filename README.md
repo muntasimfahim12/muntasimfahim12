@@ -11,11 +11,11 @@
 ---
 
 ### 💫 About Me
-<img align="right" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programming-logo-coding-on-laptop-user-interface-pack-business-illustrations-4545932.png" />
+<img align="right" width="320" src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programming-logo-coding-on-laptop-user-interface-pack-business-illustrations-4545932.png" />
 
 - 🔭 I’m currently working on **[GenieHack](https://www.geniehack.com/)**
 - 🌱 I’m currently learning **Advanced AI Integration & System Design**
-- 👨‍💻 My Portfolio: [muntasimfahim.dev](https://www.shahinafridi.com) *(Update if needed)*
+- 👨‍💻 My Portfolio: [muntasimfahim.dev](https://www.shahinafridi.com)
 - 💬 Ask me about **Next.js, Node.js, and Cloud Ops**
 - 📫 Reach me at: **muntasimfahim12@gmail.com**
 - ⚡ Fun fact: **I build tools that make life easier (and sometimes just for fun!)**
@@ -29,27 +29,27 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Real-time Streak
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=muntasimfahim12&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="muntasimfahim12 trophies" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasimfahim12&theme=tokyonight&hide_border=false&border_radius=10&mode=weekly" alt="muntasimfahim12 streak" />
 </p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
+      <img height="185em" src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
     </td>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight" alt="Languages" />
+      <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight" alt="Languages" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muntasimfahim12&theme=tokyonight" alt="muntasimfahim12 streak" />
-</p>
-
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true" width="100%" />
 </p>
