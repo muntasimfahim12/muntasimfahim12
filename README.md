@@ -1,155 +1,40 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#0e75b6;">Muntasim Fahim</span>
-</h1>
+<h1 align="center">Hey 👋, I'm Shahin</h1>
+<h3 align="center">Full Stack Web App Developer based in Bangladesh</h3>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-powered+Web+Apps;SaaS+%7C+Startups+%7C+APIs+%7C+Dashboards;Always+learning%2C+always+shipping" 
-    alt="Typing SVG" 
-  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinmunn&label=Profile%20views&color=0e75b6&style=flat" alt="yasinmunn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahinafridi012" alt="shah" /></a> </p>
+
+- 🔭 I’m currently working on [GenieHack](https://www.geniehack.com/)
+
+- 🌱 I’m currently learning **more and more**
+
+- 👨‍💻 All of my projects are available at [www.shahinafridi.com](www.shahinafridi.com)
+
+- 📝 I regularly write articles on [www.shahinafridi.com](www.shahinafridi.com)
+
+- 💬 Ask me about **React- NextJS Others**
+
+- 📫 How to reach me **shahinafridi012@gmail.com**
+
+- 📄 Know about my experiences [www.shahinafridi.com](www.shahinafridi.com)
+
+- ⚡ Fun fact **I love experimenting with the latest tech trends—currently diving into AI and its impact on web development!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yasinmunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinmunn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasinmunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasinmunn" height="30" width="40" /></a>
+<a href="https://fb.com/yasinmunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasinmunn" height="30" width="40" /></a>
+<a href="https://instagram.com/yasinmunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinmunn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yasinmunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasinmunn" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.geniehack.com" target="_blank">
-    <img src="https://img.shields.io/badge/Currently%20Building-GenieHack-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muntasimfahim12&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahinafridi012&show_icons=true&locale=en&layout=compact" alt="shahinafridi" /></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Freelance-Available-f59e0b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20AI-8b5cf6?style=for-the-badge" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahinafridi012&show_icons=true&locale=en" alt="shahinafridi" /></p>
 
----
-
-## 👨‍💻 About Me
-
-I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on building **fast, scalable, modern web apps** with **Next.js, React, Node.js, APIs, and AI-driven features**.
-
-- 💼 I build SaaS platforms, dashboards, and automation systems  
-- ⚙️ Strong with clean architecture, performance & UI polish  
-- 🤖 Currently exploring AI features that improve real user experience  
-
-🌐 **Portfolio:** [muntasimfahim.dev](https://www.shahinafridi.com)  
-📧 **Email:** muntasimfahim12@gmail.com  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/muntasimfahim12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/muntasimfahim12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/muntasimfahim12" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧠 What I’m Good At
-
-- ✅ Building modern Next.js websites & web apps  
-- ✅ Backend APIs (Auth, CRUD, Payments, Integrations)  
-- ✅ Dashboards (Admin, Vendor, Customer portals)  
-- ✅ Automation (Zapier/Webhooks/3rd party APIs)  
-- ✅ AI integration (chat, workflows, data-driven UX)
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,figma" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,appwrite,firebase" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,mssql" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,nginx,linux,git,postman,webpack,zapier" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://www.geniehack.com" target="_blank">
-    <img src="https://img.shields.io/badge/GenieHack-AI%20Web%20Solutions-0e75b6?style=for-the-badge" />
-  </a>
-  <a href="https://www.shahinafridi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Case%20Studies%20%26%20Blogs-8b5cf6?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muntasimfahim12" target="_blank">
-    <img src="https://img.shields.io/badge/More%20Projects-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muntasimfahim12&theme=darkhub&no-frame=true&margin-w=12" />
-</p>
-
----
-
-## 📊 GitHub Stats & Real-time Streak
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muntasimfahim12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49.5%" src="https://streak-stats.demolab.com/?user=muntasimfahim12&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasimfahim12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🤝 Let’s Work Together
-
-If you need help with:
-- Next.js / React web apps
-- Backend APIs & integrations
-- SaaS dashboards
-- AI features inside websites/apps
-
-📩 Email me: **muntasimfahim12@gmail.com** 🔗 LinkedIn: [linkedin.com/in/muntasimfahim12](https://linkedin.com/in/muntasimfahim12)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahinafridi012&" alt="shahinafridi" /></p>
