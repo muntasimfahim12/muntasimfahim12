@@ -53,13 +53,6 @@ I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on buildin
 </p>
 
 ---
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true&color=14b8a6" width="100%" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
